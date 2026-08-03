@@ -84,6 +84,36 @@
                 ]
             },
             {
+                "id": "jujuy-america-diario-abrapampa-977",
+                "name": "Diario Abra Pampa FM 97.7",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/puna/979-logo-diario-abra-pampa.webp",
+                "city": "Abra Pampa",
+                "province": "Jujuy",
+                "stream": "https://streaming01.shockmedia.com.ar/8156/stream",
+                "categories": [
+                    "noticias",
+                    "comunidad",
+                    "tropical"
+                ],
+                "links": [
+                    {
+                        "type": "facebook",
+                        "name": "Diario Abra Pampa",
+                        "url": "https://www.facebook.com/diarioabrapampa"
+                    },
+                    {
+                        "type": "youtube",
+                        "name": "Radio America 90.7",
+                        "url": "https://www.youtube.com/@RadioAmerica90.7"
+                    },
+                    {
+                        "type": "youtube_2",
+                        "name": "Diario Abra Pampa",
+                        "url": "https://www.youtube.com/@diarioabrapampa"
+                    }
+                ]
+            },
+            {
                 "id": "jujuy-Weekend-923",
                 "name": "Weekend FM 92.3",
                 "image": "https://streaminglocucionar.com/portal/images/logos/weekendfm923.png",
@@ -1763,6 +1793,18 @@
                 "categories": [
                     "comunidad",
                     "musica"
+                ],
+                "links": [
+                    {
+                        "type": "tiktok",
+                        "name": "RadioDelValle",
+                        "url": "tiktok.com/@radiodelvalle991"
+                    },
+                    {
+                        "type": "youtube",
+                        "name": "RADIO DEL VALLE - JUJUY",
+                        "url": "https://www.youtube.com/@radiodelvalle99.1"
+                    }
                 ]
             },
             {
