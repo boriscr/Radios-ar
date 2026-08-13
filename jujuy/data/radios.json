@@ -469,7 +469,7 @@
         "items": [
             {
                 "id": "jujuy-America-online",
-                "name": "Radio América Online",
+                "name": "América Online",
                 "image": "https://zeno.fm/_ipx/_/https://images.zeno.fm/G9X2VZwKB-EmJObAyjAZcoca2v8BAA18YpERX9yNCmg/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMGU0YjJmNmEtOTgwYi00MGE3LWEzY2ItZDI1OWM2ZDk3YWViL2ltYWdlLz91PTE3NzQ4ODY1MjgwMDA.webp",
                 "city": "Aguas Calientes",
                 "province": "Jujuy",
@@ -647,6 +647,71 @@
                 ]
             },
             {
+                "id": "jujuy-fiesta-917",
+                "name": "Fiesta FM 91.7",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/917-logo-fiesta.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://5cd577a3dd8ec.streamlock.net/radiofiesta/live_1/playlist.m3u8",
+                "categories": [
+                    "comunidad",
+                    "musica",
+                    "tropical"
+                ],
+                "links": [
+                    {
+                        "type": "official_web",
+                        "url": "https://www.radiofiestafm.com.ar/"
+                    },
+                    {
+                        "type": "facebook",
+                        "name": "Radio Fiesta Ok",
+                        "url": "https://www.facebook.com/61560860615396"
+                    },
+                    {
+                        "type": "youtube",
+                        "name": "Gato Garcia",
+                        "url": "https://www.youtube.com/@gatogarcia"
+                    },
+                    {
+                        "type": "youtube_2",
+                        "name": "Radio Fiesta 91.7",
+                        "url": "https://www.youtube.com/@RadioFiesta91.7"
+                    },
+                    {
+                        "type": "tiktok",
+                        "name": "Radio Fiesta 91.7",
+                        "url": "https://www.tiktok.com/@radiofiesta91.7"
+                    }
+                ]
+            },
+            {
+                "id": "jujuy-canal-fiesta-917",
+                "name": "Canal Fiesta FM 91.7",
+                "type": "tv",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/917-logo-fiesta.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://5cd577a3dd8ec.streamlock.net/RADIOFIESTA/_definst_/stream/playlist.m3u8",
+                "categories": [
+                    "comunidad",
+                    "musica",
+                    "tropical"
+                ]
+            },
+            {
+                "id": "jujuy-cielo-979",
+                "name": "Fm Cielo 97.9",
+                "image": "https://play-lh.googleusercontent.com/lUf4dOLsWJI0PeJdbX-ufrt1B2owivJtRfL5CxQuaZw3EY5rtGzRSvtSk5zRdd3h-a8WmANx3JUjaSlRlir2UMI",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "http://streaming.radiosenlinea.com.ar:8562/",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "jujuy-lw8-630",
                 "name": "LW8 AM 630",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/630-logo-lw8.webp",
@@ -804,59 +869,6 @@
                 "stream": "https://server4.hostradios.com/8394/stream",
                 "categories": [
                     "musica"
-                ]
-            },
-            {
-                "id": "jujuy-fiesta-917",
-                "name": "Fiesta FM 91.7",
-                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/917-logo-fiesta.webp",
-                "city": "San Salvador de Jujuy",
-                "province": "Jujuy",
-                "stream": "https://5cd577a3dd8ec.streamlock.net/radiofiesta/live_1/playlist.m3u8",
-                "categories": [
-                    "comunidad",
-                    "musica",
-                    "tropical"
-                ],
-                "links": [
-                    {
-                        "type": "official_web",
-                        "url": "https://www.radiofiestafm.com.ar/"
-                    },
-                    {
-                        "type": "facebook",
-                        "name": "Radio Fiesta Ok",
-                        "url": "https://www.facebook.com/61560860615396"
-                    },
-                    {
-                        "type": "youtube",
-                        "name": "Gato Garcia",
-                        "url": "https://www.youtube.com/@gatogarcia"
-                    },
-                    {
-                        "type": "youtube_2",
-                        "name": "Radio Fiesta 91.7",
-                        "url": "https://www.youtube.com/@RadioFiesta91.7"
-                    },
-                    {
-                        "type": "tiktok",
-                        "name": "Radio Fiesta 91.7",
-                        "url": "https://www.tiktok.com/@radiofiesta91.7"
-                    }
-                ]
-            },
-            {
-                "id": "jujuy-canal-fiesta-917",
-                "name": "Canal Fiesta FM 91.7",
-                "type": "tv",
-                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/917-logo-fiesta.webp",
-                "city": "San Salvador de Jujuy",
-                "province": "Jujuy",
-                "stream": "https://5cd577a3dd8ec.streamlock.net/RADIOFIESTA/_definst_/stream/playlist.m3u8",
-                "categories": [
-                    "comunidad",
-                    "musica",
-                    "tropical"
                 ]
             },
             {
