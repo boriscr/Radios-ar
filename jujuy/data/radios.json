@@ -1573,6 +1573,18 @@
                 ]
             },
             {
+                "id": "jujuy-radio-show-1003",
+                "name": "Show 100.3",
+                "image": "https://radioshowjujuy.esenvivo.com.ar/imagenes/logo.jpg",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://streaming01.shockmedia.com.ar:10601/stream?icy=http",
+                "categories": [
+                    "comunidad",
+                    "musica"
+                ]
+            },
+            {
                 "id": "jujuy-trentina-1011",
                 "name": "Trentina FM 101.1",
                 "web": "https://trentina.com.ar",
