@@ -247,6 +247,30 @@
                 ]
             },
             {
+                "id": "jujuy-catalina-947",
+                "name": "Catalina FM 94.7",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/puna/947-logo-catalina.webp",
+                "city": "Santa Catalina",
+                "province": "Jujuy",
+                "stream": "https://s3.conectarmedia.com:8014/stream?1786715635945",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "jujuy-pachamama-1013",
+                "name": "FM Pachamama 101.3",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-X334mZg_76rLW4BD_NyGTMn7L91OLByJvizrsYkNbjYBt-NpcBwNvgg&s=10",
+                "city": "Susques",
+                "province": "Jujuy",
+                "stream": "http://streaming01.shockmedia.com.ar:8848/",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "jujuy-conexion-937",
                 "name": "Conexion FM 93.7",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/puna/937-logo-conexion.webp",
@@ -1545,6 +1569,30 @@
                 ]
             },
             {
+                "id": "jujuy-nitro-969",
+                "name": "Nitro FM 96.9",
+                "image": "https://play-lh.googleusercontent.com/hgwlo-0JrVS5eQeR-mhfPls754mCkKXVZO8Y16TmVvBBd05cj11SyyarU2Qv2-r5YSTGdYowRgWrRaBOZX7gBg",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "http://streaming.radiosenlinea.com.ar:8578",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "jujuy-retro-893",
+                "name": "Retro FM 89.3",
+                "image": "https://play-lh.googleusercontent.com/vVh1cU3_RWEI2nq35G09RusfPzdbXLP0DIdwpjCeJbjBMYbdT_lBbCGzBY2LLWZS3ynR4bqyASzl19JKf72rWw",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "http://streaming.radiosenlinea.com.ar:8626/",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ]
+            },
+            {
                 "id": "jujuy-radio-muni-885",
                 "name": "Radio Muni FM 88.5",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/885-logo-muni.webp",
@@ -1897,6 +1945,18 @@
                 "stream": "https://stream.zeno.fm/eqsweykcvp8uv",
                 "categories": [
                     "musica"
+                ]
+            },
+            {
+                "id": "jujuy-norte-1033",
+                "name": "Norte FM 103.3",
+                "image": "https://play-lh.googleusercontent.com/4_g533bZ8R8x9EP_xHEskpVd-vvoCW8UgJFvs6lUjt33QjWdAnAHRJNsozXt5pwZ46SRQtJjzeev7JQ6hw0Dj3Y=w240-h480-rw",
+                "city": "San Pedro",
+                "province": "Jujuy",
+                "stream": "http://streaming.radiosenlinea.com.ar:8554/",
+                "categories": [
+                    "noticias",
+                    "comunidad"
                 ]
             },
             {
