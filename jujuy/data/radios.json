@@ -41,25 +41,7 @@
                     }
                 ]
             },
-            {
-                "id": "jujuy-abra-pampa-979",
-                "name": "Abra Pampa FM 97.9",
-                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/puna/979-logo-abra-pampa.webp",
-                "city": "Abra Pampa",
-                "province": "Jujuy",
-                "stream": "https://sonicpanel.hostradios.com:7254/stream",
-                "categories": [
-                    "noticias",
-                    "comunidad"
-                ],
-                "links": [
-                    {
-                        "type": "facebook",
-                        "name": "Multimedios 2",
-                        "url": "https://www.facebook.com/100065100036581"
-                    }
-                ]
-            },
+            
             {
                 "id": "jujuy-arias-911",
                 "name": "Arias FM 91.1",
