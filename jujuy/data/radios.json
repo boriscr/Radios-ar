@@ -3,6 +3,25 @@
         "zone": "Puna",
         "items": [
             {
+                "id": "jujuy-abra-pampa-979",
+                "name": "Abra Pampa FM 97.9",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/puna/979-logo-abra-pampa.webp",
+                "city": "Abra Pampa",
+                "province": "Jujuy",
+                "stream": "https://sonicpanel.hostradios.com:7254/stream",
+                "categories": [
+                    "noticias",
+                    "comunidad"
+                ],
+                "links": [
+                    {
+                        "type": "facebook",
+                        "name": "Multimedios 2",
+                        "url": "https://www.facebook.com/100065100036581"
+                    }
+                ]
+            },
+            {
                 "id": "jujuy-america-977",
                 "name": "America FM 97.7",
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/puna/977-logo-america.webp",
@@ -416,7 +435,7 @@
                 "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/quebrada/963-logo-viltipoco.webp",
                 "city": "Purmamarca",
                 "province": "Jujuy",
-                "stream": "https://srv1.streamingradio.ar/8040/stream",
+                "stream": "https://streaming3.locucionar.com/proxy/radioviltipoco?mp=/stream",
                 "categories": [
                     "folklore",
                     "comunidad"
