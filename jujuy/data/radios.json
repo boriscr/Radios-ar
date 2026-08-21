@@ -60,7 +60,6 @@
                     }
                 ]
             },
-            
             {
                 "id": "jujuy-arias-911",
                 "name": "Arias FM 91.1",
@@ -1517,6 +1516,17 @@
                 "city": "San Salvador de Jujuy",
                 "province": "Jujuy",
                 "stream": "https://srv7.streamingradio.ar/8126/stream",
+                "categories": [
+                    "comunidad"
+                ]
+            },
+            {
+                "id": "jujuy-FM-solidaridad-1039",
+                "name": "FM Solidaridad 103.9",
+                "image": "https://cdn.jsdelivr.net/gh/kredensir/Radios-ar/jujuy/valles/1039-logo-solidaridad.webp",
+                "city": "San Salvador de Jujuy",
+                "province": "Jujuy",
+                "stream": "https://srv7.streamingradio.ar/8330/stream",
                 "categories": [
                     "comunidad"
                 ]
